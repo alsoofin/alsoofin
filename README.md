@@ -45,5 +45,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/alsoofin/alsoofin/output/snake.svg" alt="Snake animation" />
-
-###
