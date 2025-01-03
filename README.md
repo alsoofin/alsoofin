@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nooraldeen and I'm a Electrical Engineering @ McMaster University</h2>
-<p>2025 Stats</p>
+<h2 align="center">Hi 👋! My name is Nooraldeen and I'm a Electrical Engineering @ McMaster University</h2>
 
 ###
 
