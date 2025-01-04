@@ -14,11 +14,11 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-  Basically, I'm an Electrical Engineering Student who likes to automate the boring stuff...<br>
-  <br>- I’m working on developing on Differential Drive Robot and a [REDACTED ⚠️] app for PC Users
-  <br>- I'm currently learning Data Strucutres and Algorithms (I like to build cool apps) and SLAM to help me build a robot
-  <br>- In my free time I just read books (Send me your Suggestions!)
-  <br>- Want to Collaborate? Have Some Advice for me (Appriecate this anytime)? --> Add my LinkedIn
+  Basically, I'm an Electrical Engineering Student who likes to automate the boring stuff...<br><br>
+  - I’m working on developing a Differential Drive Robot and a [REDACTED ⚠️] app for PC Users.<br>
+  - I'm currently learning Data Structures and Algorithms (I like to build cool apps) and SLAM to help me build a robot.<br>
+  - In my free time I just read books --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Send Suggestions!</a><br>
+  - Want to Collaborate? Have Some Advice for me (Appreciate this anytime)? --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Add my LinkedIn</a>
 </p>
 
 <h3 align="left">I have experience using all these technologies 👇</h3>
