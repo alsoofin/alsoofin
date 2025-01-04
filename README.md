@@ -59,9 +59,8 @@
 ### ✍️ Goal
 
 <div style="display: flex; align-items: center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Goal Quote" style="flex-shrink: 0;"/>
-  
-  <img align="right" height="100" src="https://c.tenor.com/QZwMPZYQLVIAAAAd/tenor.gif" alt="Gif" style="margin-left: 20px;"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Goal Quote" style="vertical-align: middle;"/>
+  <img align="right" height="150" src="https://c.tenor.com/QZwMPZYQLVIAAAAd/tenor.gif" alt="Gif" style="vertical-align: middle;"/>
 </div>
 
 
