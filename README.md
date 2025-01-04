@@ -59,7 +59,7 @@
 ### ✍️ Goal
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
   <!-- Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Goal Quote" style="max-width: calc(100% - 170px);"/>
+  <img width="500" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Goal Quote" style="max-width: calc(100% - 170px);"/>
 
   <!-- GIF -->
   <img src="https://c.tenor.com/QZwMPZYQLVIAAAAd/tenor.gif" alt="Gif" height="150" style="margin-left: 20px;"/>
