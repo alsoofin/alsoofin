@@ -17,8 +17,8 @@
   Basically, I'm an Electrical Engineering Student who likes to automate the boring stuff...<br>
   <br>- I’m working on developing on Differential Drive Robot and a [REDACTED ⚠️] app for PC Users
   <br>- I'm currently learning Data Strucutres and Algorithms (I like to build cool apps) and SLAM to help me build a robot
-  <br>- In my free time I just read books ([Send me your Suggestions!](https://www.linkedin.com/in/nooraldeen-al/))
-  <br>- Want to Collaborate? Have Some Advice for me (Appriecate this anytime)? --> Add my [LinkedIn](https://www.linkedin.com/in/nooraldeen-al/)
+  <br>- In my free time I just read books (Send me your Suggestions!)
+  <br>- Want to Collaborate? Have Some Advice for me (Appriecate this anytime)? --> Add my LinkedIn
 </p>
 
 <h3 align="left">I have experience using all these technologies 👇</h3>
@@ -57,8 +57,14 @@
 ---
 
 ### ✍️ Goal
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-<img align="right" height="150" src="https://c.tenor.com/QZwMPZYQLVIAAAAd/tenor.gif" alt="Gif"/>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Goal Quote" style="flex-shrink: 0;"/>
+  
+  <img align="right" height="150" src="https://c.tenor.com/QZwMPZYQLVIAAAAd/tenor.gif" alt="Gif" style="margin-left: 20px;"/>
+</div>
+
+
 
 ---
 
