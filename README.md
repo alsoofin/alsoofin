@@ -11,7 +11,7 @@
 <!-- Snake Game -->
 <h1 align="center">Hi 👋 My name is Noor</h1>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 <p align="left">
   Basically, I'm an Electrical Engineering Student who likes to automate the boring stuff...<br><br>
@@ -56,16 +56,23 @@
 
 ---
 
-### ✍️ Goal
+## ✍️ Goal
+
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-  <!-- Quote -->
-  <img width="550" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Goal Quote" style="max-width: calc(100% - 170px);"/>
 
-  <!-- GIF -->
-  <img src="https://c.tenor.com/QZwMPZYQLVIAAAAd/tenor.gif" alt="Gif" height="150" style="margin-left: 20px;"/>
+  <!-- Quote Text -->
+  <div style="flex: 1; max-width: 60%; padding-right: 20px;">
+    <blockquote> 
+      "Automate the Boring Stuff" <br>
+      — Al Sweigart
+    </blockquote>
+    
+  </div>
+
+  <!-- GIF Image -->
+  <img src="https://c.tenor.com/22UWFcnewuYAAAAd/tenor.gif" alt="Gif" height="100%" width="100%" style="max-width: 30%;"/>
+
 </div>
-
-
 
 ---
 
@@ -86,24 +93,4 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thecodingdiaries/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thecodingdiaries/0" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thecodingdiaries/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thecodingdiaries/1" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thecodingdiaries/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thecodingdiaries/2" alt="Recent Article 3">
--->
-
-<!--
-### ⚡ Technologies & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  
-</div>
 -->
