@@ -19,7 +19,8 @@
   - I’m working on developing a Differential Drive Robot and a [REDACTED ⚠️] app for PC Users.<br>
   - I'm currently learning Data Structures and Algorithms (I like to build cool apps) and SLAM to help me build a robot.<br>
   - In my free time I just read books --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Send Suggestions!</a><br>
-  - Want to Collaborate? Have Some Advice for me (Appreciate this anytime)? --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Add my LinkedIn</a> 
+  - Want to Collaborate? Got Some Advice? --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Add my LinkedIn</a><br>
+  - All my repositories are private!
 </p>
 
 <h3 align="left">I have experience using all these technologies 👇</h3>
