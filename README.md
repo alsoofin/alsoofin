@@ -33,13 +33,13 @@
 
 <p align="left">
   Basically, I'm an Electrical Engineering Student who likes to automate the boring stuff...<br><br>
-  - I’m working on developing a Differential Drive Robot and a [REDACTED ⚠️] app for PC Users.<br>
+  - I’m currently helping build cool robots<br>
   - I'm currently learning Data Structures and Algorithms (I like to build cool apps) and SLAM to help me build a robot.<br>
-  - In my free time I just read books --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Send Suggestions!</a><br>
-  - Want to Collaborate? Got Some Advice? --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Add my LinkedIn</a><br>
+  - In my free time I enjoy reading, writing, and building apps that have purpose --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Send Suggestions!</a><br>
+  <!-- - Want to Collaborate? --- > Got Some Advice? <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Add my LinkedIn</a><br> --> 
   - All my repositories are private!
 </p>
-
+<!--
 <h3 align="left">I have experience using all these technologies 👇</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
@@ -72,7 +72,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
-
+--> 
 ---
 
 <!-- Future Medium Articles
