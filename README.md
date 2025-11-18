@@ -1,7 +1,7 @@
 <!-- <h3 align="center">Social Links 🌍</h3> -->
 <div align="center"> 
   
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nooraldeen-al) 
+  <!--  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nooraldeen-al) --> 
   <!-- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />-->
   <!-- <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> -->
   <!-- <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> -->
@@ -9,8 +9,24 @@
   <!-- <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />  --> 
   
 </div>
-<!-- Snake Game -->
+
+
 <h1 align="center">Hi 👋 My name is Noor</h1>
+
+## ✍️ Goal
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
+
+  <!-- Quote Text -->
+  <div style="flex: 1; max-width: 60%; padding-right: 20px;">
+    <blockquote> 
+      "Automate the Boring Stuff" <br>
+      — Al Sweigart
+    </blockquote>
+    
+  </div>
+
+</div>
+
 
 <h2 align="left">👩‍💻  About Me</h2>
 
@@ -54,23 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
-
----
-
-## ✍️ Goal
-
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-
-  <!-- Quote Text -->
-  <div style="flex: 1; max-width: 60%; padding-right: 20px;">
-    <blockquote> 
-      "Automate the Boring Stuff" <br>
-      — Al Sweigart
-    </blockquote>
-    
-  </div>
-
 </div>
 
 ---
