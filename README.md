@@ -34,7 +34,7 @@
 <p align="left">
   an electrical engineering student who likes to automate the boring stuff...<br><br>
   - I’m currently helping build cool robots<br>
-  - I'm currently learning Data Structures and Algorithms (I like to build cool apps) and SLAM to help me build a robot.<br>
+  - I'm currently learning SLAM to help me build a robot.<br>
   - In my free time I enjoy reading, writing, and building apps that have purpose --> <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Send Suggestions!</a><br>
   <!-- - Want to Collaborate? --- > Got Some Advice? <a href="https://www.linkedin.com/in/nooraldeen-al/" target="_blank">Add my LinkedIn</a><br> --> 
 </p>
